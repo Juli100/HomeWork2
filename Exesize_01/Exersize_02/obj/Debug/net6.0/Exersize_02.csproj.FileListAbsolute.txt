@@ -1,0 +1,15 @@
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.csproj.AssemblyReference.cache
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.AssemblyInfoInputs.cache
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.AssemblyInfo.cs
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.csproj.CoreCompileInputs.cache
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/bin/Debug/net6.0/Exersize_02
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/bin/Debug/net6.0/Exersize_02.deps.json
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/bin/Debug/net6.0/Exersize_02.runtimeconfig.json
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/bin/Debug/net6.0/Exersize_02.dll
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/bin/Debug/net6.0/ref/Exersize_02.dll
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/bin/Debug/net6.0/Exersize_02.pdb
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.dll
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/ref/Exersize_02.dll
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.pdb
+/Users/yuliyabatrakova/Desktop/разработка/Язык прог C#/HomeWork2/Zadacha/Exesize_01/Exersize_02/obj/Debug/net6.0/Exersize_02.genruntimeconfig.cache
